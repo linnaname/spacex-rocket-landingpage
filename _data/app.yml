@@ -1,15 +1,27 @@
 name: ExploreSpaceNow | SpaceNow
 description:  Rocket launch tracker include SpaceX
-full_description: 'An app offering a comprehensive view of the latest rocket lauch data, include SpaceX.<br>
+full_description: 'An app offering a comprehensive view of the latest rocket lauch data,  include SpaceX. View rocket detail in 3D.<br>
 <br>With a lot of features:
 <br>- Upcoming launches.
 <br>- Previous launches.
-<br>- Extensive launch details'
-android: https://telegra.ph/Replace-this-link-07-23
+<br>- Extensive launch details
+<br>- Collect what you like.
+<br>- Save what you like in local
+<br>- Add schedule event  to Calendar
+<br>- SpaceX rockets list
+<br>- Rocket detail info
+<br>- View rocket detail in 3D'
+android: https://play.google.com/store/apps/details?id=me.linnana.app.spacex
 iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
-  - 1.jpg
-  - 2.jpg
-  - 4.jpg
-  - 3.jpg
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+  - 5.png
+  - 6.png
+  - 7.png
+  - 8.png
+  - 9.png
+  - 10.png
+  - 11.png
