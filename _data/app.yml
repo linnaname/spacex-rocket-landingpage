@@ -1,17 +1,12 @@
-name: ExploreSpaceNow | SpaceNow
-description:  Rocket launch tracker include SpaceX
-full_description: 'An app offering a comprehensive view of the latest rocket lauch data,  include SpaceX. View rocket detail in 3D.<br>
+name: SpaceXWatch
+description:  SpaceXWatch:Your Ultimate Rocket Launch Companion.
+full_description: 'Discover a comprehensive view of the latest rocket launch data, including all things about SpaceX launch!<br>
 <br>With a lot of features:
-<br>- Upcoming launches.
-<br>- Previous launches.
-<br>- Extensive launch details
-<br>- Collect what you like.
-<br>- Save what you like in local
-<br>- Add schedule event  to Calendar
-<br>- SpaceX rockets list
-<br>- Rocket detail info
-<br>- View rocket detail in 3D'
-android: https://play.google.com/store/apps/details?id=me.linnana.app.spacex
+<br>- Stay Updated on Upcoming & Previous Launches:Never miss a launch with our up-to-date schedule.
+<br>- Explore Extensive Launch Details:Dive deep into the specifics of each mission.
+<br>- View Rockets in Stunning 3D:Experience rockets like never before with interactive 3D models.
+<br>- Follow Upcoming & Previous Events:Stay connected with all launch events and activities.
+<br>- Enjoy the Astronomy Picture of the Day:Feast your eyes on breathtaking space imagery daily.'
 iOS: https://apps.apple.com/app/explorespacenow/id6698858561
 screenshots:
   - 1.png
@@ -19,9 +14,3 @@ screenshots:
   - 3.png
   - 4.png
   - 5.png
-  - 6.png
-  - 7.png
-  - 8.png
-  - 9.png
-  - 10.png
-  - 11.png
